@@ -33,7 +33,7 @@
     "elm-typescript-interop": "bin/elm-typescript-interop"
   },
   "dependencies": {
-    "elm": "^0.18.0",
+    "elm": "0.18.0-exp5",
     "glob": "^7.1.3"
   }
 }
